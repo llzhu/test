@@ -9,7 +9,7 @@ import java.beans.XMLEncoder; // simple and effective
 import javax.servlet.ServletContext;
 
 public class Predictions {
-    private int n = 32;
+    private int n = 42;
     private Prediction[ ] predictions;
     private ServletContext sctx;
 
